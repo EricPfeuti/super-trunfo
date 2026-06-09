@@ -1,4 +1,4 @@
-# README – Super Trunfo Animal
+# Super Trunfo Animal
 
 ## Descrição do Projeto
 
